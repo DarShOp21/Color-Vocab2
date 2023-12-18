@@ -1,0 +1,22 @@
+#Red{
+    color: red;
+}
+#Blue{
+    color: blue;
+}
+#Orange{
+    color: orange;
+}
+#Green{
+    color: green;
+}
+#Yellow{
+    color: yellow;
+}
+.Colorname{
+    font-weight: normal;
+}
+img{
+    height: 500px;
+    width: 1000px;
+}
